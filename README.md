@@ -75,10 +75,8 @@ This was one of the most challenging and rewarding projects I have worked on.
 
 ---
 
-## Screenshots or GIFs (Optional)
+## Gameplay Preview
 
-Add short visual clips or screenshots to show teleportation and gameplay.  
-This will make the repository even stronger for portfolio review.
+<img src="Media/portal_jump.gif" width="600">
 
----
 
