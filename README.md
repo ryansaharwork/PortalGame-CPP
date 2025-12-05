@@ -75,8 +75,7 @@ This was one of the most challenging and rewarding projects I have worked on.
 
 ---
 
-## Gameplay Preview
+## Gameplay Video
 
-<img src="Media/portal_jump.gif" width="600">
-
+▶️ **[Watch the Gameplay Demo here](https://github.com/YOUR_USERNAME/YOUR_REPO/releases/latest)**
 
