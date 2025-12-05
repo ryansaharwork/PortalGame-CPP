@@ -77,5 +77,5 @@ This was one of the most challenging and rewarding projects I have worked on.
 
 ## Gameplay Video
 
-▶️ **[Watch the Gameplay Demo here](https://github.com/YOUR_USERNAME/YOUR_REPO/releases/latest)**
+▶️ **[Watch the Gameplay Demo here](https://github.com/ryansaharwork/PortalGame-CPP/releases/latest)**
 
