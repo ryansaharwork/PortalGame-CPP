@@ -74,8 +74,7 @@ This was one of the most challenging and rewarding projects I have worked on.
 - Sound, UI, and visual polish
 
 ---
+## Gameplay Preview
 
-## Gameplay Video
-
-▶️ **[Watch the Gameplay Demo here](https://github.com/ryansaharwork/PortalGame-CPP/releases/latest)**
+<video src="https://github.com/ryansaharwork/PortalGame-CPP/releases/download/v1.0/portal_gameplay.mp4" width="600" controls></video>
 
